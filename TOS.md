@@ -223,7 +223,7 @@ For questions about these Terms of Use, please open a ticket in the ICF Discord 
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 **Israeli Combined Forces (ICF) - Discord Bot Terms of Use**  
 *Made with dedication for the ICF Community*
