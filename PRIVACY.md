@@ -2,7 +2,7 @@
 
 <img src="icf-dev-team-logo.png" alt="ICF Logo" width="150" />
 
-## Privacy Policy
+# Privacy Policy
 ### Israeli Combined Forces (ICF) Discord Bot
 
 **Effective Date:** June 28, 2026  
