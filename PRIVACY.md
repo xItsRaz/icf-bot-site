@@ -1,7 +1,6 @@
 <div align="center" markdown="1">
 
 <img src="icf-dev-team-logo.png" alt="ICF Logo" width="150" />
-<br/>
 
 ## Privacy Policy
 ### Israeli Combined Forces (ICF) Discord Bot
