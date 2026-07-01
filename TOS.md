@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 <img src="icf-dev-team-logo.png" alt="ICF Logo" width="150" />
 
