@@ -196,7 +196,7 @@ For any privacy-related questions, requests, or concerns, please open a staff ti
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 **Israeli Combined Forces (ICF) - Discord Bot Privacy Policy**  
 *Made with dedication for the ICF Community*
